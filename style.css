@@ -1,0 +1,42 @@
+.carousel-item >img{
+    height: 600px;
+}
+
+span > a > img {
+    margin-right: 10px;
+    color: white;
+}
+
+.plusMinusDiv{
+    height: 35px;
+    width: 35px;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.card{
+    margin: 5px !important;
+}
+
+.plusMinusDiv:hover{
+    background-color: #ccc;
+}
+
+.img-style {
+    height: 200px !important;
+}
+
+.cartCard{
+    height: 140px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius:5px;
+}
+.card-body{
+    height: 166px !important;
+}
